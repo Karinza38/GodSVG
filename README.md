@@ -1,4 +1,4 @@
-# GodSVG
+ GodSVG
 
 <p align="center">
   <img src="godot_only/source_assets/splash.svg" width="480" alt="GodSVG logo">
